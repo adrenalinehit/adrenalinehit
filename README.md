@@ -17,8 +17,6 @@
 
 - 📫 How to reach me: **ndpayne@gmail.com** or carrier pidgeon
 
-- 📄 Find out about professional me here [https://www.linkedin.com/in/nick-payne-5b0a231/](https://www.linkedin.com/in/nick-payne-5b0a231/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adrenalinehit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrenalinehit" height="30" width="40" /></a>
