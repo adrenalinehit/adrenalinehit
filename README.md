@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/adrenalinehit" target="blank"><img src="https://img.shields.io/twitter/follow/adrenalinehit?logo=twitter&style=for-the-badge" alt="adrenalinehit" /></a> </p>
 
-- 🔭 I’m currently working on [Http Codes](https://github.com/adrenalinehit/CatCodes)
+- 🔭 I’m currently (stalled a little at the moment!) working on [Http Codes](https://github.com/adrenalinehit/CatCodes) (available on the [https://apps.apple.com/us/app/http-codes/id1626500016](appstore))
 
 - 🌱 I’m currently learning **SwiftUI and other bits and bobs**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 📝 I infrequently write articles on [https://medium.com/@adrenalinehit](https://medium.com/@adrenalinehit)
+- 📝 I infrequently write articles on [https://medium.com/@adrenalinehit](https://medium.com/@adrenalinehit), and [https://adrenalinehit.github.io/](my dev blog)
 
-- 💬 Ask me about **Engineering Management**
+- 💬 Ask me about **Engineering Management** and **Enterprise Mobile App development**
 
-- 📫 How to reach me **ndpayne@gmail.com**
+- 📫 How to reach me: **ndpayne@gmail.com** or carrier pidgeon
 
 - 📄 Find out about professional me here [https://www.linkedin.com/in/nick-payne-5b0a231/](https://www.linkedin.com/in/nick-payne-5b0a231/)
 
