@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/adrenalinehit" target="blank"><img src="https://img.shields.io/twitter/follow/adrenalinehit?logo=twitter&style=for-the-badge" alt="adrenalinehit" /></a> </p>
 
-- 🔭 I’m currently (stalled a little at the moment!) working on [Http Codes](https://github.com/adrenalinehit/CatCodes) (available on the [https://apps.apple.com/us/app/http-codes/id1626500016](appstore))
+- 🔭 I’m currently (stalled a little at the moment!) working on [Http Codes](https://github.com/adrenalinehit/CatCodes) (available on the [Apple App Store](https://apps.apple.com/us/app/http-codes/id1626500016))
 
 - 🌱 I’m currently learning **SwiftUI and other bits and bobs**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 Pretty much all of my projects are available right here...
 
-- 📝 I infrequently write articles on [https://medium.com/@adrenalinehit](https://medium.com/@adrenalinehit), and [https://adrenalinehit.github.io/](my dev blog)
+- 📝 I infrequently write articles on [Medium](https://medium.com/@adrenalinehit), and [my dev blog](https://adrenalinehit.github.io/)
 
 - 💬 Ask me about **Engineering Management** and **Enterprise Mobile App development**
 
