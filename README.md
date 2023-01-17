@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrenalinehit&label=Profile%20views&color=0e75b6&style=flat" alt="adrenalinehit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adrenalinehit" target="blank"><img src="https://img.shields.io/twitter/follow/adrenalinehit?logo=twitter&style=for-the-badge" alt="adrenalinehit" /></a> </p>
-
 - 🔭 I’m currently (stalled a little at the moment!) working on [Http Codes](https://github.com/adrenalinehit/CatCodes) (available on the [Apple App Store](https://apps.apple.com/us/app/http-codes/id1626500016))
 
 - 🌱 I’m currently learning **SwiftUI and other bits and bobs**
