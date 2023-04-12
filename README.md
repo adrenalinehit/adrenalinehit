@@ -27,4 +27,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ndpayne"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ndpayne" /></a></p><br><br>
 
-<img src="https://www.strava.com/athletes/803880/activity-summary/63119c16f273d385e23041a35d4b09de83926ed0" height="160" width="300" />
+<iframe src="https://www.strava.com/athletes/803880/activity-summary/63119c16f273d385e23041a35d4b09de83926ed0" height="160" width="300" />
