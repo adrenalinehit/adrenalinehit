@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrenalinehit&label=Profile%20views&color=0e75b6&style=flat" alt="adrenalinehit" /> </p>
 
-- 🔭 I’m currently (stalled a little at the moment!) working on [Http Codes](https://github.com/adrenalinehit/CatCodes) (available on the [Apple App Store](https://apps.apple.com/us/app/http-codes/id1626500016))
-
-- 🌱 I’m currently learning **SwiftUI and other bits and bobs**
-
 - 👨‍💻 Pretty much all of my projects are available right here...
 
-- 📝 I infrequently write articles on [Medium](https://medium.com/@adrenalinehit), and [my dev blog](https://adrenalinehit.github.io/)
+- 📝 I infrequently write articles on [my dev blog](https://adrenalinehit.github.io/)
 
-- 💬 Ask me about **Engineering Management** and **Enterprise Mobile App development**
+- 💬 Ask me about **Engineering Leadership and Management** and **Enterprise Mobile App development**
 
 - 📫 How to reach me: **ndpayne@gmail.com** or carrier pidgeon
+
+- Founder of [Skipton Digital](https://skipton.digital) - a local tech community for Skipton.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
